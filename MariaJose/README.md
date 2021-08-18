@@ -24,10 +24,11 @@ Junto a elementos como:
  - Imágenes
  - Fragmentos de código
 
-<img src="img.jpg" width="150">
+<img src="img.jpg" width="300">
+
 # Información
 ## María José Torres Nieves
-*Actualmente en 8 semestre de ingenieria de sistemas en la **Escuela Colombiana de Ingeniería Julio Garavito**.*
+Actualmente en 8 semestre de *ingenieria de sistemas* en la **Escuela Colombiana de Ingeniería Julio Garavito**.
 
 ## Pasatiempos
 * Videojuegos
