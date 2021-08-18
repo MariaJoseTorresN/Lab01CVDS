@@ -16,6 +16,3 @@
 1. Millos
 2. Millos
 3. Millos
-
-
-
