@@ -29,7 +29,9 @@ error laudantium cupiditate consectetur
 reiciendis laborum adipisci ea fuga asperiores
 eaque culpa rem, iure qui dolore labore at. Magnam!
 
+
 [link tutorial Markdown](https://commonmark.org/help/tutorial/08-images.html)
+
 ![max](meme.jpg)
 
 Código hello world Python
