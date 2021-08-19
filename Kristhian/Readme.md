@@ -36,3 +36,12 @@ eaque culpa rem, iure qui dolore labore at. Magnam!
 
 Código hello world Python
 `print(hello world :) )`
+
+
+## Avance GIT
+
+**Kristhian David Segura Guatibonza**
+**Carnet: 2163298**
+
+![avance 1](av1.png)
+![avance 2](av2.png)
